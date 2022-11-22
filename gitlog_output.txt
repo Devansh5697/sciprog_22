@@ -1,0 +1,110 @@
+commit 044d3b09572740cbe6d19f184af83d9970d5b98f
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Tue Nov 22 15:00:08 2022 +0000
+
+    Codes for Practical 10
+
+commit 8752f3df708d48ca94453adb4d34d3b6ed794571
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Tue Nov 22 14:58:36 2022 +0000
+
+    Codes for Practical 09
+
+commit 04903491b8e78c09425ffe654b4e5a92b5b6a2d6
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Mon Nov 21 23:49:30 2022 +0000
+
+    Codes for Practical 08
+
+commit 73643265fc2e85bcfefde3dd030c21e45fe14720
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Mon Nov 21 23:14:15 2022 +0000
+
+    Codes for Practical 07
+
+commit 2f937f00dd044da7628f8bf60944ec0eae2dfbaa
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Mon Nov 21 22:17:17 2022 +0000
+
+    Codes for Practical 06
+
+commit ba51102d50f177eb8e5092bcac928f5e9da14120
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Mon Nov 21 16:53:00 2022 +0000
+
+    Adding README file for Practical 05
+
+commit 726fe2ed0b2052f2ac39fd1435330a330297034a
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Mon Nov 21 16:50:37 2022 +0000
+
+    Adding README file for Practical 04
+
+commit 9983adf32a6af5530caf544da1b56d9664bb293d
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Mon Nov 21 15:27:01 2022 +0000
+
+    Adding README file for Practical 03
+
+commit e33b36b1ac9ba398f9eac8abfbc340f32eefe767
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Mon Nov 21 14:23:27 2022 +0000
+
+    Adding README file for Practical 02
+
+commit 7b44d9db333b36cfa75d0b4fc10d577173d6d42d
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Fri Nov 18 17:52:07 2022 +0000
+
+    Code for Practical 05
+
+commit 0397bcb2d19b34ee61dbe58eb24556e12e96c386
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Thu Nov 17 17:09:59 2022 +0000
+
+    Code for Practical 04
+
+commit 52d5cf0169ce1f706e9e3c16df78531be63f308a
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Thu Nov 17 00:46:53 2022 +0000
+
+    Code for Practical 3
+
+commit 95be970085b39b7a87be074d0fa90884d1f9072f
+Author: Devansh <devansh.ireland@gmail.com>
+Date:   Wed Nov 16 18:13:47 2022 +0000
+
+    Codes for Practical 02
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
